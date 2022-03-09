@@ -8,9 +8,7 @@ filediag.addEventListener("change", (e)=>{
     filereader.readAsText(e.target.files[0]);
 })
 function turnRed(){
-    
-    
-    
+ 
     let selection= window.getSelection() 
     const selRange= selection.getRangeAt(0).cloneRange()
 
