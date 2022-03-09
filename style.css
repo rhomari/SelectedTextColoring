@@ -1,0 +1,10 @@
+.filecontentviewer{
+    border:1px solid;
+    border-color: orange;
+    width: 100vh;
+    height: 50vh;
+    margin-top: 20px;
+}
+redmark{
+    color:red;
+}
